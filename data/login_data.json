@@ -1,0 +1,44 @@
+[
+  {
+    "desc": "tp-login-API001 不输入手机号",
+    "username": "",
+    "password": "123456",
+    "veriycode": "8888",
+    "dialog_text": "用户名不能为空!"
+  },
+  {
+    "desc": "tp-login-API002 不输入密码",
+    "username": "18588581997",
+    "password": "",
+    "veriycode": "8888",
+    "dialog_text": "密码不能为空!"
+  },
+  {
+    "desc": "tp-login-API003 不输入验证码",
+    "username": "18588581997",
+    "password": "123456",
+    "veriycode": "",
+    "dialog_text": "验证码不能为空!"
+  },
+  {
+    "desc": "tp-login-API004 输入未注册手机号",
+    "username": "18588581990",
+    "password": "123456",
+    "veriycode": "",
+    "dialog_text": "账号不存在!"
+  },
+  {
+    "desc": "tp-login-API005 输入错误密码",
+    "username": "18588581997",
+    "password": "abcdef",
+    "veriycode": "8888",
+    "dialog_text": "密码错误!"
+  },
+  {
+    "desc": "tp-login-API006 输入错误格式账号",
+    "username": "1234567",
+    "password": "123456",
+    "veriycode": "8888",
+    "dialog_text": "账号格式不匹配!"
+  }
+]
